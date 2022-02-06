@@ -26,3 +26,4 @@ https://prashantp22.github.io/Work-Day-Scheduler/
 
 ## Screen Shot
 
+<img width="1048" alt="image" src="https://user-images.githubusercontent.com/96153408/152687258-0d82b307-7388-4a91-a549-33fb95ca3d71.png">
